@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[手艺人笔记]]></title>
+        <description><![CDATA[手艺人的技术笔记]]></description>
+        <link>http://book.zhaopeng.me/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 11 Apr 2017 14:42:53 GMT</lastBuildDate>
+        <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[mikey.zhaopeng]]></author>
+        <category><![CDATA[awesome]]></category>
+        <category><![CDATA[book]]></category>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[程序员的手艺]]></title>
+            <description><![CDATA[写代码也是一种手艺.]]></description>
+            <link>http://book.zhaopeng.me/</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[介绍]]></title>
+            <link>http://book.zhaopeng.me/mac/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[系统设置]]></title>
+            <description><![CDATA[在任何的操作系统中，首先你需要做一件事就是更新系统，点击窗口左上角的**  > 关于本机 > 软件更新** 。此外，如果这是一部新的电脑，你还需要到系统设置进行一些适当调整。如何调整，取决于个人喜好。]]></description>
+            <link>http://book.zhaopeng.me/mac/SystemPreferences/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/SystemPreferences/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[xcode]]></title>
+            <description><![CDATA[作为一个开发人员, xcode 是必装的,8.3 以前可以不通过 App Store是进行离线安装,但是现在不行了,只能通过 App Store是来安装了,好在以后可以增量更新,不用每次都下载一个整包更新了.]]></description>
+            <link>http://book.zhaopeng.me/mac/xcode/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/xcode/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Homebrew]]></title>
+            <description><![CDATA[Homebrew 是一个很强大的包管理工具,让我们可以很方便的安装命令和软件.]]></description>
+            <link>http://book.zhaopeng.me/mac/Homebrew/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/Homebrew/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Homebrew 基本使用]]></title>
+            <description><![CDATA[帮助命令]]></description>
+            <link>http://book.zhaopeng.me/mac/Homebrew/0.Usage.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/Homebrew/0.Usage.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Homebrew Cask]]></title>
+            <description><![CDATA[你已经感受到了使用 Homebrew 安装命令行程序的便利。那么接下来，我们将通过 Homebrew Cask 优雅、简单、快速的安装和管理 OS X 图形界面程序，比如 Google Chrome 和 Dropbox。]]></description>
+            <link>http://book.zhaopeng.me/mac/Homebrew/1.Cask.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/Homebrew/1.Cask.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[iTerm]]></title>
+            <description><![CDATA[我用 mac 作为开发首选,就是特别钟情于mac 终端的好用,而 iterm 是特别好处的终端,再加入 zsh 那就是超级好用.]]></description>
+            <link>http://book.zhaopeng.me/mac/iTerm/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/iTerm/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[zsh]]></title>
+            <description><![CDATA[zsh 是 shell 中的极品,让shell 的使用更加的便利,强大,必装软件.]]></description>
+            <link>http://book.zhaopeng.me/mac/iTerm/zsh.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/iTerm/zsh.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[git]]></title>
+            <description><![CDATA[git 现在也是很重要很重要的工具,必装软件.]]></description>
+            <link>http://book.zhaopeng.me/mac/git/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/git/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[git 文件忽略]]></title>
+            <description><![CDATA[创建一个新文件 ~/.gitignore ，并将以下内容添加进去，这样全部 git 仓库将会忽略以下内容所提及的文件。]]></description>
+            <link>http://book.zhaopeng.me/mac/git/gitignore.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/git/gitignore.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[java]]></title>
+            <description><![CDATA[做 java 开发的,不用说了, java 必装的,用 brew 让安装 java 更加方便,环境变量都会自动配置了.]]></description>
+            <link>http://book.zhaopeng.me/mac/java/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/java/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[maven]]></title>
+            <description><![CDATA[maven 是 java 中的利器,必装,继续使用 brew 来安装.]]></description>
+            <link>http://book.zhaopeng.me/mac/maven/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/maven/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[node]]></title>
+            <description><![CDATA[在当前 node 大放光彩的时代, node 必装. node 版本更新差异比较大,有时候需要多个版本的切换,我们使用nvm来管理 node 的版本.]]></description>
+            <link>http://book.zhaopeng.me/mac/node/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/node/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[vscode]]></title>
+            <description><![CDATA[比起 sublime text 或者 atom,我更推荐使用的 vscode 文本编辑器,配合插件 Settings Sync 进行插件和配置的同步,很适合我多个平台多个电脑的进行同步,使用同一套习惯.]]></description>
+            <link>http://book.zhaopeng.me/mac/vscode/README.html</link>
+            <guid isPermaLink="true">http://book.zhaopeng.me/mac/vscode/README.html</guid>
+            <dc:creator><![CDATA[mikey.zhaopeng]]></dc:creator>
+        </item>
+    </channel>
+</rss>
